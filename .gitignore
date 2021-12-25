@@ -36,3 +36,6 @@ lerna-debug.log*
 
 # IDE - JetBrains
 .idea/
+
+# env
+*.env
